@@ -1,4 +1,4 @@
 To have access of these projects,following are the things u need to install:
 
-opencv-python
-mediapipe
+1.opencv-python
+2.mediapipe
